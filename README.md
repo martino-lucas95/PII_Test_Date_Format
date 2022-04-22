@@ -17,7 +17,7 @@ Escribir una función que recibe una cadena de caracteres como parámetro con un
  
  La función para cambiar el forma de la fecha está implementada en el método de clase ChangeFormat de la clase Program. Ese método se invoca desde el método de clase Main de la clase Program que es el punto de entrada del programa.
 
-
+```
 namespace DateFormat
 {
     public class Program
@@ -34,3 +34,4 @@ namespace DateFormat
         }
     }
 }
+```
