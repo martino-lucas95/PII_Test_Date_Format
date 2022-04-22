@@ -1479,6 +1479,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Program/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Program.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Program.dll": {}
+        }
       }
     }
   },
@@ -5376,6 +5386,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Program/1.0.0": {
+      "type": "project",
+      "path": "../../src/Program.csproj",
+      "msbuildProject": "../../src/Program.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5383,6 +5398,7 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
+      "Program >= 1.0.0",
       "coverlet.msbuild >= 3.1.0"
     ]
   },
@@ -5392,11 +5408,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\test\\Library.Test\\Library.Test.csproj",
+      "projectUniqueName": "c:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\test\\Library.Test\\Library.Test.csproj",
       "projectName": "Library.Test",
-      "projectPath": "C:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\test\\Library.Test\\Library.Test.csproj",
+      "projectPath": "c:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\test\\Library.Test\\Library.Test.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\test\\Library.Test\\obj\\",
+      "outputPath": "c:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\test\\Library.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5412,7 +5428,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\src\\Program.csproj": {
+              "projectPath": "c:\\Users\\lucas\\.001 - Facultad\\Programacion_2\\PII_Test_Date_Format\\src\\Program.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

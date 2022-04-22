@@ -1,0 +1,16 @@
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\Program.exe
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\Program.deps.json
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\Program.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\ref\Program.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\bin\Debug\net5.0\Program.pdb
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\ref\Program.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.pdb
+C:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\obj\Debug\net5.0\Program.genruntimeconfig.cache

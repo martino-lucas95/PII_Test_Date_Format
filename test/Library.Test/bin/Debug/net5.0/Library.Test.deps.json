@@ -11,6 +11,7 @@
           "Microsoft.NET.Test.Sdk": "15.8.0",
           "NUnit": "3.12.0",
           "NUnit3TestAdapter": "3.16.1",
+          "Program": "1.0.0",
           "coverlet.msbuild": "3.1.0"
         },
         "runtime": {
@@ -1039,6 +1040,11 @@
             "fileVersion": "4.6.24705.1"
           }
         }
+      },
+      "Program/1.0.0": {
+        "runtime": {
+          "Program.dll": {}
+        }
       }
     }
   },
@@ -1572,6 +1578,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

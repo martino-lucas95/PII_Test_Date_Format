@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Library.Test
-build_property.ProjectDir = c:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\test\Library.Test\
+build_property.RootNamespace = Program
+build_property.ProjectDir = c:\Users\lucas\.001 - Facultad\Programacion_2\PII_Test_Date_Format\src\
